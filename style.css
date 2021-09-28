@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+*{
+    box-sizing: border-box;
+}
+.jbutton{
+    background-color: #96BB7C !important;
+    border-radius: 10px;
+    color: white !important;
+    position: absolute;
+    right: 17%;
+    font-family:'Montserrat', sans-serif !important;
+    font-weight: 700;
+    font-size: 14px;
+}
+.nbar{
+    background-color: #fff;
+}
+.nitem{
+    font-family:'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #737373 !important;
+}
+.cntnr{
+    margin-top: 90px
+}
+.hero_title {
+    font-weight: 700;
+    font-size: 70px;
+    font-family:'Montserrat', sans-serif ;
+}
+.hero_tagline {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+     
+  
+    letter-spacing: -0.625263px;
+  
+    color: #696871;
+}
+.feature_card:hover {
+    transition: 0.5s all;
+    background-color: #96BB7C ;
+    color: #fff !important;
+    cursor: default;
+    border-radius: 10px;
+}
+.feature_card{
+    color: black !important;
+    border-radius: 10px;
+}
+.course{
+    color: #96BB7C;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.vheader{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.vsub{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #737373;
+    margin-bottom: 50px;
+}
+.container {
+    position: relative;
+    color: black;
+}
+  
+ 
+.bottom-left {
+    position: absolute;
+    top: 19px;
+    left: 43px;
+    border-radius: 4px;
+    background-color: #E74040;
+    text-decoration: none;
+    padding: 3px 10px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.sale{
+    border-radius: 4px;
+    background-color: #E74040;
+    text-decoration: none;
+    padding: 3px 6px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.ico{
+    position: absolute;
+    bottom: 15px;
+    left: 26%;
+}
+.button{
+    margin: 4px;
+}
+.texttag{
+    color: #96BB7C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    text-align: right;
+    margin-right: 5px;
+    
+}
+.star{
+    padding: 4px 9px;
+    background-color: #2D4059;
+    border-radius: 15px;
+    color: yellow;
+    margin-left: 10%;
+}
+.lower{
+    background-color: rgb(118, 118, 118);
+    color: white;
+}
